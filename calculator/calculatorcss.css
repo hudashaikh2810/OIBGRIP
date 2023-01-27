@@ -1,0 +1,263 @@
+*
+{
+    padding: 0px;
+    margin:0px;
+    box-sizing: border-box;
+}
+#container
+{
+    position: relative;
+    top:150px;
+    left: 600px;
+}
+#top
+{
+    height:150px;
+    width:312px;
+}
+#content
+{
+    height:150px;
+    width:312px;
+    font-size: 30px;
+    background-color: rgb(80, 78, 78);
+    color: white;
+}
+.buttons
+{
+    height:60px;
+    width:312px;
+    background-color: black;
+    padding: 0px;
+    
+}
+#b1
+{
+    height:60px;
+    width: 75px;
+    background-color: black;
+    color: white;
+    border: none;
+}
+#b2
+{
+    height:60px;
+    width: 75px;
+    background-color: black;
+    color: white;
+    border: none;
+}
+#b3
+{
+    height:60px;
+    width:75px;
+    background-color: black;
+    color: white;
+    border: none;
+}
+#b4
+{
+    height:60px;
+    width:75px;
+    background-color:orange;
+    color: white;
+    border: none;
+}
+#b5
+{
+    height:60px;
+    width:75px;
+    background-color: black;
+    color: white;
+    border: none;
+}
+#b6
+{
+    height:60px;
+    width:75px;
+    background-color: black;
+    color: white;
+    border: none;
+}
+#b7
+{
+    height:60px;
+    width:75px;
+    background-color: black;
+    color: white;
+    border: none;
+}
+#b8
+{
+    height:60px;
+    width:75px;
+    background-color:orange;
+    color: white;
+    border: none;
+}
+#b9
+{
+    height:60px;
+    width:75px;
+    background-color: black;
+    color: white;
+    border: none;
+}
+#b10
+{
+    height:60px;
+    width:75px;
+    background-color: black;
+    color: white;
+    border: none;
+}
+#b11
+{
+    height:60px;
+    width:75px;
+    background-color: black;
+    color: white;
+    border: none;
+}
+#b12
+{
+    height:60px;
+    width:75px;
+    background-color:orange;
+    color: white;
+    border: none;
+}
+#b13
+{
+    height:60px;
+    width:75px;
+    background-color: black;
+    color: white;
+    border: none;
+}
+#b14
+{
+    height:60px;
+    width:75px;
+    background-color: black;
+    color: white;
+    border: none;
+}
+#b15
+{
+    height:60px;
+    width:75px;
+    background-color: black;
+    color: white;
+    border: none;
+}
+#b16
+{
+    height:60px;
+    width:75px;
+    background-color:orange;
+    color: white;
+    border: none;
+}
+#b17
+{
+    height:60px;
+    width:154px;
+    background-color: black;
+    color: white;
+    border: none;
+}
+#b18
+{
+    height:60px;
+    width:75px;
+    background-color: black;
+    color: white;
+    border: none;
+    
+}
+#b19
+{
+    height:60px;
+    width:75px;
+    background-color:orange;
+    color: white;
+    border: none;
+    
+}
+#b1:hover
+{
+    background-color: red;
+}
+#b2:hover
+{
+    background-color: red;
+}
+#b3:hover
+{
+    background-color: red;
+}
+#b4:hover
+{
+    background-color: red;
+}
+#b5:hover
+{
+    background-color: red;
+}
+#b6:hover
+{
+    background-color: red;
+}
+#b7:hover
+{
+    background-color: red;
+}
+#b8:hover
+{
+    background-color: red;
+}
+#b9:hover
+{
+    background-color: red;
+}
+#b10:hover
+{
+    background-color: red;
+}
+#b11:hover
+{
+    background-color: red;
+}
+#b12:hover
+{
+    background-color: red;
+}
+#b13:hover
+{
+    background-color: red;
+}
+#b14:hover
+{
+    background-color: red;
+}
+#b15:hover
+{
+    background-color: red;
+}
+#b16:hover
+{
+    background-color: red;
+}
+#b17:hover
+{
+    background-color: red;
+}
+#b18:hover
+{
+    background-color: red;
+}
+#b19:hover
+{
+    background-color: red;
+}
